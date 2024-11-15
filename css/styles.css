@@ -161,7 +161,9 @@ padding: 100px 0;
 }
 
 .first-screen {
-   
+   width: 1440px;
+   margin-left: auto;
+   margin-right: auto;
 padding-top: 188px;
     background-color: #2e2f42;
     padding-bottom: 188px;
@@ -324,6 +326,20 @@ margin-right: auto;
         border-bottom-left-radius: 4px;
         background-color: #F4F4FD;
 }
+
+.item-description-icon{
+    border: 1px solid #8e8f99;
+        border-radius: 4px;
+        width: 264px;
+        height: 112px;
+        background: #f4f4fd;
+        margin-bottom: 8px;
+       padding: 24px 100px;
+}
+
+ .icon-description-item{
+
+} 
 
 .second-title{
     text-align: start;
