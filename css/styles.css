@@ -454,6 +454,7 @@ padding-left: 16px;
 }  */
 
 .social-media-list{
+    margin-top: 8px;
 display: flex;
 gap: 24px;
 /* width: 232px;
