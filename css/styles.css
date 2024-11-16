@@ -531,9 +531,9 @@ position: relative;
     overflow: hidden;
         }
 
-.portfolio-item:hover{
+/* .portfolio-item:hover{
     transform: translateY(0%);
-}
+} */
 
 .portfolio-item:hover .overlay {
     transform: translateY(0%);
